@@ -1,0 +1,24 @@
+REQUIREMENTS
+- Matlab 2014 minimum
+- little knowledge of steam/vapour power cycle
+- all files should be in a folder (path variables are not set )
+
+INSTALLATION
+  Installation of the exe file is quite straight forward, but required some prerequisite such as matlab runtime.
+this has been included in the installation files
+
+SCOPE OF WORK.
+  The software you have at your finger tips is of engineering beauty, but it is limited in scope and the data it can process.
+it serves to solve few problems in vapour power cycle. this version is limited to problems of the following type
+1. a simple rankine cycle with an Evapourator.
+2. a simple rankine cycle with a Super heater.
+3. a modified rankine cycle with reheat.
+4. modified rankine cycle having a superheater with open feed heaters , but no reheat.
+ Furthermore, units of temperature are in celcius and pressure units are in bars
+
+WORK FLOW
+  Open matlab and make the folder that contains all these file the current working directory. run the guide command and select the login fig. default username is 'admin' and default password is '123456',
+ you could register as a new user as well. the application has 4 independent screens, each screen in interlinked and data is passed from one screen to the other.
+  On the other hand you could create an executable from these files by using software builder in matlab.
+  if you encounter errors or for enquires,  you could email me on uraniumkid30@gmail.com or contact Mathworks
+enjoy!!!
